@@ -67,6 +67,7 @@ import 'tinymce/plugins/paste/plugin';
 import 'tinymce/plugins/preview/plugin';
 import 'tinymce/plugins/fullscreen/plugin';
 import 'tinymce/plugins/directionality/plugin';
+import 'tinymce/icons/default';
 
 import Prism from 'prismjs';
 
