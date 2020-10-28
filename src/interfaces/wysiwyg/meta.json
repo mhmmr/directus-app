@@ -74,7 +74,8 @@
 					"visualaid": "View invisible elements",
 					"code": "View Source",
 					"fullscreen": "Full Screen",
-					"ltr rtl": "Directionality"
+					"ltr rtl": "Directionality",
+					"codesample": "Code Sample"
 				}
 			}
 		},
